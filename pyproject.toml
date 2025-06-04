@@ -14,7 +14,7 @@ jaxlib = { version = "^0.3.15", optional = true }
 jax = { version = "^0.3.16", optional = true }
 tqdm = "^4.64.0"
 DataSynthesizer = "^0.1.11"
-tensorflow = "^2.10.0"
+tensorflow-macos = "≈2.10.0"
 ektelo = { git = "https://github.com/callummole/ektelo.git", rev = "dependencies", optional = true }
 py-synthpop = "^0.1.2"
 validators = "^0.20.0"
